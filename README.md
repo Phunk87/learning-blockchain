@@ -1,13 +1,18 @@
 # 区块链学习
 
-无论是比特币还是区块链技术并无所谓官方文档，所以以下技术文档均来自于社区、个人书写。
+无论是比特币还是区块链技术并无所谓官方文档，以下技术文档均来自于社区、个人书写，文章及资料版权归作者本人所有。
 
 ## 内容
 
 - [比特币相关](#Bitcoin-相关)
     - [中文资料](#中文资料)
+        - 「Mastering Bitcoin」中文版
     - [英文资料](#英文资料)
-    - [Q & A](#Q-&-A)
+        - Bitcoin: A Peer-to-Peer Electronic Cash System
+        - Bitcoin Improvement Proposals
+        - Bitcoin Wiki
+        - Bitcoin Developer Documentation
+        - Q & A
 - [Hyperledger Fabric 相关](#Hyperledger-Fabric-相关)
 - [License](#License)
 
@@ -17,21 +22,21 @@
 
 ### 中文资料
 
-- [《Mastering Bitcoin》中文版](https://www.bitcoinbook.info/translations/cmn/book.pdf)
+- [「Mastering Bitcoin」中文版](https://www.bitcoinbook.info/translations/cmn/book.pdf)
 
 ### 英文资料
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips#readme)
-- [比特币技术 wiki](https://en.bitcoin.it/wiki/Main_Page)
-- [比特币开发者文档](https://bitcoin.org/en/developer-documentation)
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+- [Bitcoin Developer Documentation](https://bitcoin.org/en/developer-documentation)
 
 ### Q & A
 
-- 挖矿是啥
+- 挖矿是什么
     - Mining is the process of adding transaction records to Bitcoin's public ledger of past transactions.
     - Ref: https://en.bitcoin.it/wiki/Mining
-- 挖矿究竟在干嘛
+- 挖矿过程究竟做了什么
     - Ref: [stack exchange 上的讨论](http://bitcoin.stackexchange.com/questions/148/what-exactly-is-mining)
 
 ## Hyperledger Fabric 相关
